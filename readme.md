@@ -61,7 +61,7 @@ Stop the program and go to `Run -> Edit Configurations...`.
 field.
     - Note: If you don't see this Run Configuration listed:
       - create a new Run Configuration of type `Application` (use the +
-      in the top left corner of the window).
+      in the top left corner of the window)
       - where it says "Main class", type `app.gui.GUI`.
 
 10. In that field, type `API_TOKEN=YOUR_TOKEN`, with YOUR_TOKEN replaced with your
